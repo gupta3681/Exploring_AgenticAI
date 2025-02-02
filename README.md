@@ -59,12 +59,6 @@ python rock_paper_scissor_main.py
 ```
 or streamlit run rock_paper_scissor_app.py
 
-## Contributing
 
-Contributions are welcome! If you have ideas for improvements or new features, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the project's objectives and follow the established coding standards.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
