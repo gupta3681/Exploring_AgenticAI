@@ -12,7 +12,7 @@ Agentic AI refers to systems capable of autonomous decision-making, often modele
 
 ## Features
 
-- **Connect Four**: An implementation of the classic Connect Four game, where agents can play against each other or a human player.
+- **Connect Four**: An implementation of the classic Connect Four game, where agents can play against each other.
 - **Rock-Paper-Scissors**: A simulation of the Rock-Paper-Scissors game, demonstrating basic agent decision-making and strategy.
 
 ## Installation
